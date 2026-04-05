@@ -1,0 +1,7 @@
+{
+  "name": "ViviAstro",
+  "description": "An AI-powered astrology application that provides deep astrological chart analysis and personalized celestial guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
